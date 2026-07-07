@@ -5,7 +5,7 @@
 
 Model development (EmotionRNN, DistilBERT fine-tuning, LLM response integration) led by Yutong Zou and Sannidhi Patel.
 
-[Open in Colab](#) *(update this link once your notebook is pushed)*
+[Open in Colab](https://colab.research.google.com/github/yutongzou07/emotion-classification-mental-health-nlp/blob/main/emotion-classification-mental-health-nlp.ipynb)
 
 ## Business Problem
 
